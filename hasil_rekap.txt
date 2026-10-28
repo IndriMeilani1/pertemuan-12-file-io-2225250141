@@ -1,0 +1,10 @@
+REKAP NILAI MAHASISWA
+=====================
+1. Nama: ﻿Inosuke, Nilai: 85.0, Tugas: 90.0, Rata-rata: 87.50
+2. Nama: Miri, Nilai: 78.0, Tugas: 80.0, Rata-rata: 79.00
+3. Nama: Kotaro, Nilai: 92.0, Tugas: 95.0, Rata-rata: 93.50
+4. Nama: Kirin, Nilai: 70.0, Tugas: 75.0, Rata-rata: 72.50
+5. Nama: Zoro, Nilai: 88.0, Tugas: 84.0, Rata-rata: 86.00
+=====================
+Jumlah mahasiswa: 5
+Rata-rata kelas: 83.70

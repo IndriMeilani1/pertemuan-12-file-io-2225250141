@@ -1,0 +1,10 @@
+﻿CATATAN PROGRAM REKAP NILAI 
+
+1. Program digunakan untuk membaca data mahasiswa dari file nilai.txt. 
+2. Data yang dibaca terdiri dari nama, nilai, dan nilai tugas. 
+3. Program melakukan validasi untuk memastikan data lengkap, nilai berupa angka, dan nilai berada pada rentang 0 sampai 100. 
+4. Data yang tidak valid akan dilewati. 
+5. Program menghitung rata-rata nilai setiap mahasiswa. 
+6. Program menghitung jumlah mahasiswa dan rata-rata kelas. 
+7. Hasil rekap disimpan ke file hasil_rekap.txt. 
+8. Kesalahan pembacaan atau penulisan file ditangani menggunakan try-except.

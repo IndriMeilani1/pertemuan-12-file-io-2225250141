@@ -1,0 +1,9 @@
+﻿Inosuke,85,90 
+
+Miri,78,80 
+
+Kotaro,92,95 
+
+Kirin,70,75 
+
+Zoro,88,84
